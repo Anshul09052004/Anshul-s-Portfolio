@@ -1,7 +1,8 @@
-🌟 My React Portfolio 🌟
+<h1 align="center">🌟 My React Portfolio 🌟</h1>
 
-
-🚀 A modern, responsive, and interactive personal portfolio built with React.js to showcase my skills, projects, and achievements.
+<p align="center">
+🚀 A modern, responsive, and interactive personal portfolio built with <b>React.js</b> to showcase my skills, projects, and achievements.
+</p>
 
 ---
 
@@ -17,8 +18,8 @@
 
 ## 🛠 Tech Stack
 💻 **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)  
-🎨 **Styling:** CSS / TailwindCSS / Styled Components 
-🌐 **Deployment:** GitHub Pages / Netlify / 
+🎨 **Styling:** CSS / TailwindCSS / Styled Components  
+🌐 **Deployment:** GitHub Pages / Netlify 
 
 ---
 
@@ -26,13 +27,13 @@
 
 ```bash
 # 📥 Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Anshul09052004/anshul-s-portfolio.git
 
 # 📂 Navigate into the project folder
-cd your-repo-name
+cd anshul-s-portfolio
 
 # 📦 Install dependencies
 npm install
 
 # ▶️ Start the development server
-npm start
+npm run dev
